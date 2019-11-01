@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap');
 
 font-family: 'ZCOOL XiaoWei', serif;
 
@@ -37,17 +37,17 @@ header{
 .nav-link a:hover{
 color: green;
 
-}
-button{
+} */
+button {
   padding: 9px 20px;
-  color:white;
-  background-color:#333;
+  color: white;
+  background-color: #333;
   border-radius: 40px;
   border: none;
-  transition:all 0.3s ease 0s;
-  cursor:pointer;
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
 }
-button:hover{
+button:hover {
   background-color: purple;
 }
 /* @media screen and (max-min:) {
